@@ -1,39 +1,46 @@
-# Galactic Core Black Hole Structure with D-Axis Integration
+# 🌀 Galactic Core Black Hole Theory
 
----
+## ■ Overview
 
-## 🔭 Overview
+This repository presents an integrated theory that redefines traditional black hole and neutron star limit theories, based on the D-axis structural model.
 
-This repository redefines the phenomenon of black holes observed at the centers of galaxies not as traditional "singularities," but as a result of compression structures formed by D-axis convergence, based on the E-TIM gravitational model.
+The galactic core black hole is not a simple gravitational object formed by mass alone.  
+Instead, it is a gravitational transfer structure composed of point A (compression origin) and point D (magnetic neutron star) within the D-axis framework.  
+Although it appears as a black hole observationally, its true nature is a paired structure involving an unobservable neutron star (point D).
 
-In this framework, the center of a galaxy is not its origin but a convergence point where information from the expanding universe is compacted. This point, termed the "D point," is assumed to end in a magnetic body, typically a neutron star, which absorbs the compressive energy flow.
+This theory resolves several observational and theoretical contradictions:
 
----
+- Why neutron stars become "unobservable" beyond 2.35 solar masses  
+- Why a black hole exists at the center of a galaxy  
+- The true nature of the "void regions" inside galactic structures  
+- The causal structure of pressure-driven magnetic body selection during galaxy formation
 
-## 📌 Core Concepts
+## ■ Theoretical Background
 
-- Galaxy formation does not originate from a central point, but from the aggregation of expanded information.
-- Information flows converge along the tensor-aligned D-axis, forming compression cores.
-- The black hole at the center is a result of this multi-axis compression converging toward a magnetic terminal.
-- Neutron stars are assumed to exist along the D-axis, though often unobservable from our visible spectrum.
+The theory is constructed in the following stages:
 
----
+1. **Establishment of the D-Axis Structure Theory**  
+ (Point A: absorption origin / Point D: output neutron star)
 
-## 🔬 File Structure
+2. **Reinterpretation of the Big Bang**  
+ (The origin of the universe as "matter dispersion into negative space" due to D-axis collapse)
 
-- `sections/`: Core documents detailing theory and structural integration
-- `validation/`: Simulation data and observational verification
-- `references/`: Links to related E-TIM repositories
+3. **Pressure-Driven Selection During Galaxy Formation**  
+ (Concentration of pressure at the center and the resulting evolution into magnetic bodies)
 
----
+4. **Structural Definition of Galactic Core Black Holes**  
+ (A-point and D-point paired structure sustaining the central black hole appearance)
 
-## 🔗 Related Repositories
+5. **Reconstruction of Neutron Star Observability Limits**  
+ (Unobservability of D-point neutron stars with 400 solar masses and 92m diameter)
 
-- [E-TIM Gravity Theory (Unified Model)](https://github.com/Mk9207/E-TIM_Gravity_Theory)
-- [Magnetic Tensor Flow Gravity Model](https://github.com/Mk9207/Gravity-Structure-Reinterpreted-Magnetic-Tensor-Flow-Theory)
+## ■ Repository Structure
 
----
+This repository is organized as follows:
 
-## 🧠 Notes
-
-This model diverges from traditional gravitational and singularity-based theories. It is built entirely upon the E-TIM framework and D-axis mechanics, confirming structural consistency and observational reproducibility without invoking classical gravity assumptions.
+- `theory.md`: Full overview of the extended structure from D-axis theory to galactic core
+- `structure.md`: Relationship between A/D gravitational structure and galaxy morphology
+- `implications.md`: Verification and reinterpretation against conventional theories
+- `observations.md`: Comparison with existing observational data and hypothesis consistency
+- `simulation/`: Gravitational tensor simulations and structural validation
+- `references.md`: Reference materials, terminology, and related theoretical links
